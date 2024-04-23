@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont />
+  <Iso639Code />
+  <transcriptionFont>Monlam Uni Ochan2, 21.75, Regular</transcriptionFont>
   <freeTranslationFont />
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>NW0194</Title>
   <FundingProjectTitle />
   <ProjectDescription />
   <VernacularISO3CodeAndName />
-  <AnalysisISO3CodeAndName />
   <Location />
   <Region />
   <Country>Unspecified</Country>
